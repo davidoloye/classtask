@@ -1,0 +1,205 @@
+body {
+	margin:0;
+	padding:0;
+	font-size:14px;
+	font-family:'Times New Roman',serif,Geogia;
+	background:url(../images/body-bg.jpg) repeat;
+	color:464a4f;
+}
+
+#wrapper {
+	width:920px;
+	margin:auto;
+}
+
+#heading {
+	width:920px;
+	height:221px;
+	padding:0;
+	float:left;
+	margin:10px 0px 0px 0px;
+	background:url(../images/heaser-bg.jpg) no-repeat;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+
+#logo {
+	padding:0;
+	float:left;
+	margin:80px 0 0 38px;
+}
+
+#heading h1 {
+	padding:0;
+	margin:105px 0 0 4px;
+	float:left;
+	color:#ffffff;
+	font-size:3.0em;
+	font-weight:normal;
+	font-family:"Times New Roman", Geogia, serif;	
+}
+
+#navigation {
+	width:920px;
+	float:left;
+	padding:0;
+	margin:0;
+	height:40px;
+	list-style:none;
+	background:url(../images/nav-bg.jpg) repeat-x;	
+}
+
+#navigation ul {
+	margin:0px;
+	padding:0px;
+	height:40px;
+}
+
+#navigation ul li {
+	list-style:none;
+	float:left;
+	height:40px;
+	padding:10px 42px 10px 42px;
+	border-right:1px solid black;
+}	
+
+#navigation ul li a {
+	text-decoration:none;
+	color:#ffffff;	
+}
+
+#navigation ul li a:hover {
+	color:#deb887;
+	text-decoration:underline;
+}
+
+#main-content {
+	width:920px;
+	margin:0px;
+	padding:0;
+	float:left;
+	color:#383838 ;
+}
+
+#leftside {
+	width:700px;
+	background-color:#ffffff;
+	float:left;
+	padding:40px 10px 40px 10px;
+}
+
+#leftside h2 {
+	margin:2px 0px 0px 30px;
+	font-size:2.0em;
+	font-family:Arial,verdana;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+
+#leftside p {
+	margin:25px 0px 0px 30px;
+}
+
+#leftside ul.lito {
+	padding:0;
+	margin:0px 0px 0px 50px;
+}
+
+#leftside ul li {
+	font-family:'Times New Roman',Times,serif;
+	font-size:16px;	
+	list-style:none;
+	padding:0px 0px 0px 20px;
+	background:url(../images/arr-1.jpg) no-repeat 2px 5px;
+}
+
+#leftside h3 {
+	font-size:1.5em;
+	margin-left:30px;
+	text-transform:uppercase;
+	font-family:Arial,verdana;
+}
+
+.division {
+	background:url(../images/border-bg.jpg) bottom repeat-x;
+}
+
+#rightside {
+	width:180px;
+	float:left;
+	margin:0;
+	background-color:#f8f8f8;
+	padding:20px 10px 10px 10px;
+}
+
+#rightside h2 {
+	font-size:18px;
+	margin:5px 0px 0px 5px;
+	font-family:Arial,verdana;
+}
+
+#rightside h3 {
+	color:#00f;
+	padding:0px 0px 0px 20px;
+	background:url(../images/arr-2.jpg) no-repeat 0px 6px;
+	margin:8px 0px 0px 5px;
+}
+
+
+#footing {
+	width:920px;
+	height:70px;
+	float:left;
+	margin:10px 0px 0px 0px;
+	clear:both;
+}
+
+#footing p {
+	color:#ffffff;
+	float:left;
+}
+
+#footing #footnav {
+	float:right;
+	display:inline;
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+
+#footing #footnav li {
+	float:left;
+	color:#ffffff;
+	padding:0;
+	margin:0;
+	list-style:none;
+	
+}
+
+#footing #footnav li a {
+	float:left;
+	color:#ffffff;
+	padding:0;
+	margin:0;
+	list-style:none;
+	padding:15px 15px 15px 15px;
+	text-decoration:none;
+	text-transform:uppercase;	
+}
+
+#footing #footnav li a:hover {
+	color:#f00;
+	tex:underline;
+}
+
+
+
+
+
+
+
+
+
+
+
